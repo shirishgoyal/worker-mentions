@@ -1,0 +1,6 @@
+en:
+  site_settings:
+    worker_mentions_enabled: "Enable worker mentions"
+    worker_mentions_group_name: "Group name in Discourse reserved for worker mentions per topic"
+    worker_mentions_api: "API url to call for fetching list of worker usernames for the topic"
+
