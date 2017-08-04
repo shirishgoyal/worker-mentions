@@ -1,0 +1,10 @@
+plugins:
+  worker_mentions_enabled:
+    default:
+      default: true
+      test: false
+    client: true
+  worker_mentions_group_name:
+    default: 'workers'
+  worker_mentions_api:
+    default: 'https://daemo.org/api/project/workers/?format=json&topic_id='
